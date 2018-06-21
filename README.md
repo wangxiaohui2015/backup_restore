@@ -20,7 +20,7 @@ Create DB using script backup and restore.sql.
 
 ### Deployment
 You can just use backup_restore.zip to have a try, or build BackRestore-1.0.0-RELEASE-jar-with-dependencies.jar and replace related jar in zip file.
-Double click start.bat to launch main console.
+Create folder "backupdata" in current directory and then double click start.bat to launch main console.
 
 ## Configurations
 ### Update DB info in conf.properties
